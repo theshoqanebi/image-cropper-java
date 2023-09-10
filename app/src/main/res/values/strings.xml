@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Cropper</string>
+    <string name="select_image_text">Click To Select Image File</string>
+</resources>
